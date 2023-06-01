@@ -2,7 +2,6 @@ import 'package:chatapp/screens/chat_screen.dart';
 import 'package:chatapp/screens/login_screen.dart';
 import 'package:chatapp/screens/registration_screen.dart';
 import 'package:flutter/material.dart';
-
 import 'screens/welcome_screen.dart';
 
 void main() => runApp(FlashChat());

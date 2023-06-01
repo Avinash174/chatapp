@@ -22,7 +22,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   child:  Image.asset('assets/images/logo.png'),
                   height: 80.0,
                 ),
-               const  Text(
+                const  Text(
                   'Flash Chat',
                   style: TextStyle(
                     fontSize: 45.0,
